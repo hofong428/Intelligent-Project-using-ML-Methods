@@ -1,4 +1,4 @@
-# Chapter06: The Intelligent Recommender System
+# The Intelligent Recommender System
 With the huge amount of digital information available on the internet, it becomes a
 challenge for users to access items efficiently. Recommender systems are information
 filtering systems that deal with the problem of digital data overload to pull out items or
