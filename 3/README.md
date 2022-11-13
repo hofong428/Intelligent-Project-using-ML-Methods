@@ -1,4 +1,4 @@
-# Chapter03: Neural Machine Translation
+# Neural Machine Translation
 
 Machine translation, in simple terms, refers to the translation of text from one language to
 another using a computer.With the recent advances in recurrent neural network (RNN) architectures, such
