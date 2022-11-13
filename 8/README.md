@@ -1,4 +1,4 @@
-# Chapter08: Conversational AI Chatbots for Customer Service
+# Conversational AI Chatbots for Customer Service
 Conversational chatbots have produced a lot of hype recently because of their role in
 enhancing customer experience. Modern businesses have started using the capabilities of
 chatbots in several different processes. Due to the wide acceptance of conversational AIs,
