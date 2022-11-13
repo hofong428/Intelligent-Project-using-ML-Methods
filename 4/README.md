@@ -1,4 +1,4 @@
-# Chapter04: Style Transfer in the Fashion Industry Using using GANs
+# Style Transfer in the Fashion Industry Using using GANs
 
 The concept of style transfer refers to the process of rendering the style of a product into
 another product. Imagine that your fashion-crazy friend bought a blue-printed bag and
