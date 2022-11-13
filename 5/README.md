@@ -1,4 +1,4 @@
-# Chapter05: A Video Captioning Application
+# Video Captioning Application
 
 Video captioning, the art of translating a video to generate a meaningful summary of the
 content, is a challenging task in the field of computer vision and machine learning.
