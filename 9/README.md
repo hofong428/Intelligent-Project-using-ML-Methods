@@ -1,4 +1,4 @@
-# Chapter09: Autonomous Self-Driving Car though Reinforcement Learning
+# Autonomous Self-Driving Car though Reinforcement Learning
 
 Reinforcement learning, in which an agent learns to make decisions by interacting with the
 environment, has really taken off in the last few years. It is one of the hottest topics in
