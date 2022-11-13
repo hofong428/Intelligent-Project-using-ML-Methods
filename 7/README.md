@@ -1,4 +1,4 @@
-# Chapter07: Mobile App for Movie Review Sentiment Analysis
+# Mobile App for Movie Review Sentiment Analysis
 In this modern age, sending data to AI-based applications in the cloud for inference is
 commonplace. For instance, a user can send an image taken on a mobile phone to
 the Amazon Rekognition API, and the service can tag the various objects, people, text,
