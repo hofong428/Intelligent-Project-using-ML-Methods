@@ -1,4 +1,4 @@
-# Chapter10:CAPTCHA from a DeepLearning Perspective
+# CAPTCHA from a DeepLearning Perspective
 
 The term CAPTCHA is an acronym for completely automated public Turing test to tell
 computers and humans apart. This is a computer program that intends to distinguish
